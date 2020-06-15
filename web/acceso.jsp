@@ -1,8 +1,9 @@
 <%-- 
     Document   : acceso
     Created on : 25/05/2020, 11:46:55 PM
-    Author     : Berenice
+    Author     : BereniceAnaya
 --%>
+
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
